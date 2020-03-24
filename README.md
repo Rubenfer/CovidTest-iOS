@@ -1,6 +1,6 @@
 # COVID19 Test - iOS
 
-Aplicación iOS de código abierto con los mismos resultados que la web de la Comunidad de Madrid [https://coronamadrid.com](coronamadrid.com) ya que utiliza el mismo algoritmo y las mismas preguntas.
+Aplicación iOS de código abierto con los mismos resultados que la web de la Comunidad de Madrid [coronamadrid.com](https://coronamadrid.com) ya que utiliza el mismo algoritmo y las mismas preguntas.
 
 ## Instalación
 
